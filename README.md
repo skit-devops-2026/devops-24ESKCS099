@@ -7,7 +7,7 @@
 
 | Roll No. | Name | GitHub username |
 |---|---|---|
-| <roll> | <name> | <username> |
+| 24ESKCS099 | Chirag Pratap Singh | b240358-ux |
 
 ## About
 
