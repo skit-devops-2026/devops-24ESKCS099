@@ -1,4 +1,4 @@
-# <Project Name>
+# ReVibe
 
 > Replace every angle-bracket placeholder below. The hygiene check in CI will
 > fail until you do.
@@ -11,13 +11,16 @@
 
 ## About
 
-<Two or three sentences on what this application does.>
+Smart Search & Filters:Easily find items by category, price, location, and condition.
+Secure Checkout:Integrated payment gateway for safe transactions.
+Shopping Cart & Wishlist:Save items for later or purchase multiple goods at once.
+User Reviews:Rate and review sellers based on purchase experience.
 
 ## Tech stack
 
-- Frontend: <e.g. React>
-- Backend: <e.g. Node.js / Express>
-- Database: <e.g. PostgreSQL>
+Frontend: EJS, HTML, CSS, Bootstrap and JavaScript
+Backend: Node.js and Express
+Database: MongoDB
 
 ## Running locally
 
