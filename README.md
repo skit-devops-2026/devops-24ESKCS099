@@ -37,3 +37,4 @@ make run
 
 `GET /health` returns the running commit SHA. See `Makefile` and the milestone
 sheet for why this is required.
+## Goals\n- Setup CI/CD\n- Practice DevOps
