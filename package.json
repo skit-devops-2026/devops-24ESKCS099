@@ -8,8 +8,8 @@
     "test": "tests"
   },
   "scripts": {
-  "test": "jest"
-},
+    "test": "jest"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/skit-devops-2026/devops-24ESKCS099.git"
@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/skit-devops-2026/devops-24ESKCS099#readme",
   "devDependencies": {
-    "jest": "^30.5.1"
+    "jest": "^29.7.0"
   }
 }
