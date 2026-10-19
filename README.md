@@ -30,8 +30,8 @@ make run
 ```
 
 ## Live URL
+https://revibe-24eskcs096.onrender.com
 
-<Add once M5 is done. Until then, leave as is.>
 
 ## Health endpoint
 
