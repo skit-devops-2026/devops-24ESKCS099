@@ -42,4 +42,4 @@ sheet for why this is required.
 - Practice DevOps workflows
 - Ensure reliable deployment and monitoring
 
-## Setup\nRun scripts/hello.sh
+
