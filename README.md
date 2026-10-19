@@ -37,5 +37,9 @@ https://revibe-24eskcs096.onrender.com
 
 `GET /health` returns the running commit SHA. See `Makefile` and the milestone
 sheet for why this is required.
-## Goals\n- Setup CI/CD\n- Practice DevOps
+## Goals
+- Implement CI/CD pipeline
+- Practice DevOps workflows
+- Ensure reliable deployment and monitoring
+
 ## Setup\nRun scripts/hello.sh
