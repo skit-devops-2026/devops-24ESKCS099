@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: revibe-deployment
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: revibe
+  template:
+    metadata:
+      labels:
+        app: revibe
+    spec:
+      containers:
+      - name: revibe-container
+        image: ghcr.io/skit-devops-2026/devops-24ESKCS099:latest
+        imagePullPolicy: IfNotPresent
+        ports:
+        - name: http
+          containerPort: 3000
